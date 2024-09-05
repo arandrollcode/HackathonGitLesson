@@ -13,5 +13,5 @@ def palindrome(string):
 	else:
 		return False
 
-print palindrome("racecar")
-print palindrome("poop")
+print(palindrome("racecar"))
+print(palindrome("poop"))

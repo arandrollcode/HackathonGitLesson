@@ -11,5 +11,5 @@ def pig_latin(string):
 		pig_latin = string + "way"
 		return pig_latin
 
-print pig_latin("Banana")
-print pig_latin("example")
+print(pig_latin("Banana"))
+print(pig_latin("example"))
